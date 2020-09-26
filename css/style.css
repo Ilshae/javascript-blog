@@ -8,7 +8,7 @@
 body {
   background: #fff;
   font-family: "Source Sans Pro", sans-serif;
-  color: #444;
+  color: #443;
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
@@ -29,7 +29,7 @@ body {
 .section-title span {
   text-transform: none;
   font-weight: 400;
-  color: #777777;
+  color: #7e7e5f;
 }
 
 /* Layout */
@@ -53,7 +53,7 @@ body {
   background: #fff;
   margin-right: 10px;
   padding: 40px;
-  border: 1px solid #444;
+  border: 1px solid #443;
   border-radius: 5px;
 }
 

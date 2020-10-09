@@ -4,7 +4,6 @@
 
 $color-light: #fff;
 $color-dark: #443;
-
 $font-logo: 'Sacramento', cursive;
 $font-header: 'Oswald', sans-serif;
 $font-text: 'Source Sans Pro', sans-serif;
@@ -40,6 +39,23 @@ body {
     color: lighten($color-dark, 20%);
   }
 }
+
+.tag-size-1{
+    font-size: 16px;
+}
+.tag-size-2{
+    font-size: 17px;
+}
+.tag-size-3{
+    font-size: 18px;
+}
+.tag-size-4{
+    font-size: 19px;
+}
+.tag-size-5{
+    font-size: 20px;
+}
+
 
 /* Layout */
 
